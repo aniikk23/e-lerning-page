@@ -1,0 +1,228 @@
+.bg{
+    width:1440px;
+}
+.button1{
+    width: 167px;
+    cursor: pointer;
+    height: 56px;
+    border-radius: 28px;
+    background-color: #13183F;
+    color: white;
+    font-family: 'plus jakarta sans';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    border: none;
+    margin-left: 1108px;
+    margin-top: 24px;
+    z-index: 1;
+}
+.button1:hover{
+    background: #666CA3;;
+}
+
+.skilled{
+    color:#13183F;
+    position: absolute;
+    margin-top:30px;
+    margin-left:165px;
+    font-family: 'plus jakarta sans';
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 45px;
+
+}
+h1{
+    color: #13183F;
+    position: relative;
+    margin-top:252px;
+    margin-left: 165px;
+    line-height: 50px;
+    width: 457px;
+    height: 143px;
+    font-weight: 900;
+    position: absolute;
+    font-family: 'plus jakarta sans';
+
+}
+.paragraph{
+    color:#83869A;
+    height: 84px;
+    width: 445px;
+    margin-top: 400px;
+    margin-left: 165px;
+    line-height: 28px;
+    font-family: 'plus jakarta sans';
+
+}
+.rec1{
+    position: absolute;
+    left: 784px;
+    top: -147px;
+    height: 937px;
+    width: 658px;
+
+
+}
+.logo{
+    height: 937px;
+    width: 992px;
+    overflow: hidden;
+    z-index: 2;
+}
+.button2{
+    Width: 167px;
+    Height: 63px;
+    border-radius: 30px;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    border: 0px;
+    color:white;
+    margin-left: 165px;
+    font-family: 'plus jakarta sans';
+    font-weight: 700;
+    font-size: 18px;
+    cursor: pointer;
+
+}
+.button2:hover{
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);}
+.bg1{
+    height: 200px;
+    width: 1440px;
+}
+.bg2{
+    height: 888px;
+    width: 1440px;
+    background: linear-gradient(#FFFFFF,#F0F1FF);
+}
+.rec2{
+    width: 350px;
+    height: 322px;
+    border-radius: 15px;
+    background: linear-gradient(#ff6f48,#f02AA6);
+    margin-left: 160px;
+}
+.rec3{
+    width: 350px;
+    height: 322px;
+    border-radius: 15px;
+    margin-top: -322px;
+    margin-left: 545px;
+}
+.rec4{
+    width: 350px;
+    height: 322px;
+    border-radius: 15px;
+    margin-top: -322px;
+    margin-left: 925px;
+}
+.rec5{
+    width: 350px;
+    height: 322px;
+    border-radius: 15px;
+    margin-top: 80px;
+    margin-left: 160px;
+}
+.rec6{
+    width: 350px;
+    height: 322px;
+    border-radius: 15px;
+    margin-top: -322px;
+    margin-left: 545px;
+}
+.rec7{
+    width: 350px;
+    height: 322px;
+    border-radius: 15px;
+    margin-top: -322px;
+    margin-left: 925px;
+}
+.footer{
+    width: 1440px;
+    height: 122px;
+    background-color: #13183F;
+    margin-top: 140px;
+}
+.text2{
+    color: white;
+    margin-top: 64px;
+    margin-left: 32px;
+    line-height: 40px;
+    height: 120px;
+    font-size: 32px;
+    font-family: 'plus jakarta sans';
+}
+.text3{
+    margin-top: 60px;
+    margin-left: 32px;
+    font-family: 'plus jakarta sans';
+
+}
+.text4{
+    font-size:medium;
+    font-weight: lighter;
+    margin-left: 32px;
+    margin-top: 118px;
+    line-height: 28px;
+    width: 286px;
+    height: 112px;
+    color: #83869A;
+    font-family: 'plus jakarta sans';
+    font-weight: 500;
+    font-size: 18px;
+}
+.button3{
+    margin-left: 32px;
+    margin-top: 254px;
+    color: #F74780;
+    font-family: 'plus jakarta sans';
+    font-weight: 700;
+    line-height: 28px;
+    font-size: 18px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+.button3:hover{
+    color: #FFA7C3;
+}
+.icon-bg{
+    width: 56px;
+    height: 56px;
+    background:linear-gradient(#FF6F48,#F02AA6);
+    margin-left: 32px;
+    margin-top: -312px;
+    border-radius: 100%;
+}
+.icon{
+    width: 16px;
+    height: 16px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.text5{
+    margin-left: 165px;
+    margin-top: 37px;
+    width: 114px;
+    height: 45px;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 46px;
+    color: white;
+    font-family: 'plus jakarta sans';
+}
+.button4{
+    width: 167px;
+    height: 56px;
+    margin-left: 1108px;
+    margin-top: 32px;
+    color: white;
+    background: linear-gradient(#4851FF,#F02AA6);
+    font-family: 'plus jakarta sans';
+    border-radius: 28px;
+    border: none;
+    cursor: pointer;
+}
+.button4:hover{
+    background:linear-gradient(0deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), linear-gradient(180deg, #4851FF -54.32%, #F02AA6 100%);
+}
